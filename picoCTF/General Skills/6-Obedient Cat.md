@@ -1,0 +1,4 @@
+## Descripción
+This file has a flag in plain sight (aka "in-the-clear").[flag](https://challenge-files.picoctf.net/c_wily_courier/4acf636990e4540d6fc36684b1256e625c0617d7cb01727e12e3f9606d89fe45/flag)
+## Solución 
+- picoCTF{s4n1ty_v3r1f13d_9b8fa0bc}
