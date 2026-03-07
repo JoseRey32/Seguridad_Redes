@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/plantilla.md",
+                "file": "plantilla.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,6 +185,16 @@
   },
   "active": "59e32dc6cc8b6e93",
   "lastOpenFiles": [
+    "Web 4/4-Most Cookies.md",
+    "Web 4/2-SOAP.md",
+    "Pasted image 20260306155900.png",
+    "Web 4/3-Trickster.md",
+    "Pasted image 20260306140704.png",
+    "Pasted image 20260306140655.png",
+    "Web 4/1-MatchTheRegex.md",
+    "Pasted image 20260305233701.png",
+    "plantilla.md",
+    "Web 4",
     "picoCTF/Web 3/3.JaWT Scratchpad.md",
     "Pasted image 20260305194613.png",
     "picoCTF/Web 2/3-Scavenger Hunt.md",
@@ -193,7 +203,6 @@
     "Pasted image 20260305185222.png",
     "picoCTF/Web 3/1-Irish-Name-Repo 1.md",
     "picoCTF/Web 3",
-    "picoCTF/plantilla.md",
     "README.md",
     "picoCTF/Web 2/1-GET aHEAD.md",
     "Pasted image 20260226181140.png",
@@ -207,7 +216,6 @@
     "Pasted image 20260224231001.png",
     "Pasted image 20260224230039.png",
     "Pasted image 20260224221715.png",
-    "Captura de pantalla 2026-02-24 220233.png",
     "picoCTF/Web 1/1-Insp3ct0r.md",
     "picoCTF/Tarea 1/10-ASCII Numbers.md",
     "picoCTF/Web 1",
@@ -218,14 +226,10 @@
     "picoCTF/Tarea 1/5-time machine.md",
     "picoCTF/Tarea 1/4-committee issue.md",
     "picoCTF/General Skills 3/9-PW Crack 3.md",
-    "picoCTF/Tarea 1/2-chrono.md",
-    "picoCTF/Tarea 1/3-special.md",
-    "picoCTF/Tarea 1/1-permissions.md",
     "picoCTF/Tarea 1",
     "picoCTF/General Skills 3/Sin nombre",
     "picoCTF/General Skills 3",
     "picoCTF/General Skills 2",
-    "picoCTF/General Skills/Sin nombre",
-    "picoCTF/General Skills"
+    "picoCTF/General Skills/Sin nombre"
   ]
 }
