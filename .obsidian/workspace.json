@@ -183,8 +183,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d371cb193a4e39f4",
+  "active": "59e32dc6cc8b6e93",
   "lastOpenFiles": [
+    "picoCTF/Forensic 1/5-What Lies Within.md",
+    "Pasted image 20260309222358.png",
+    "picoCTF/Forensic 1/4-extensions.md",
+    "picoCTF/Forensic 1/3-shark on wire 1.md",
+    "Pasted image 20260309220216.png",
+    "picoCTF/Forensic 1/2-So Meta.md",
+    "picoCTF/Forensic 1/1-Glory of the Garden.md",
+    "picoCTF/Tarea 2/1-Includes.md",
+    "picoCTF/Forensic 1",
+    "plantilla.md",
+    "picoCTF/Tarea 2",
     "picoCTF/Web 4/4-Most Cookies.md",
     "picoCTF/Web 4/2-SOAP.md",
     "Pasted image 20260306155900.png",
@@ -193,7 +204,6 @@
     "Pasted image 20260306140655.png",
     "picoCTF/Web 4/1-MatchTheRegex.md",
     "Pasted image 20260305233701.png",
-    "plantilla.md",
     "picoCTF/Web 4",
     "picoCTF/Web 3/3.JaWT Scratchpad.md",
     "Pasted image 20260305194613.png",
@@ -214,22 +224,11 @@
     "picoCTF/Web 2/Sin nombre",
     "picoCTF/Web 2",
     "Pasted image 20260224231001.png",
-    "Pasted image 20260224230039.png",
-    "Pasted image 20260224221715.png",
     "picoCTF/Web 1/1-Insp3ct0r.md",
     "picoCTF/Tarea 1/10-ASCII Numbers.md",
     "picoCTF/Web 1",
-    "picoCTF/Tarea 1/9-binhexa.md",
-    "picoCTF/Tarea 1/8-binary search.md",
-    "picoCTF/Tarea 1/7-collaborative development.md",
-    "picoCTF/Tarea 1/6-blame game.md",
-    "picoCTF/Tarea 1/5-time machine.md",
-    "picoCTF/Tarea 1/4-committee issue.md",
-    "picoCTF/General Skills 3/9-PW Crack 3.md",
     "picoCTF/Tarea 1",
     "picoCTF/General Skills 3/Sin nombre",
-    "picoCTF/General Skills 3",
-    "picoCTF/General Skills 2",
-    "picoCTF/General Skills/Sin nombre"
+    "picoCTF/General Skills 3"
   ]
 }
