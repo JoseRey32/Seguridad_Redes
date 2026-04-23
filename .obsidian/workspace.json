@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 4/1-Milkslap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-Milkslap"
-            }
-          },
-          {
-            "id": "2589b689d5e2ffc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "plantilla.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "plantilla"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +183,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2589b689d5e2ffc2",
+  "active": "59e32dc6cc8b6e93",
   "lastOpenFiles": [
+    "picoCTF/Crypto 4/5. flags.md",
+    "Pasted image 20260423174328.png",
+    "picoCTF/Crypto 4/4. ReadMyCert.md",
+    "Pasted image 20260423173400.png",
+    "picoCTF/Crypto 4/2. basic-mod1.md",
+    "picoCTF/Crypto 4/3. HideToSee.md",
+    "picoCTF/Crypto 3/2. Mind your Ps and Qs.md",
+    "picoCTF/Forensic 4/1-Milkslap.md",
+    "picoCTF/Web 2/3-Scavenger Hunt.md",
+    "picoCTF/Crypto 4/1. Pixelated.md",
+    "Pasted image 20260422184850.png",
     "picoCTF/Crypto 2/1. rsa pop quiz (exp.py).md",
+    "picoCTF/Crypto 4",
+    "picoCTF/Crypto 3/1. Mini RSA.md",
     "plantilla.md",
+    "picoCTF/Crypto 3",
     "picoCTF/Crypto 2",
     "picoCTF/Crypto 1/8. interencdec.md",
     "picoCTF/Crypto 1/7. waves over lambda.md",
@@ -218,34 +217,19 @@
     "Pasted image 20260414173848.png",
     "Pasted image 20260414172620.png",
     "Pasted image 20260414170731.png",
-    "Pasted image 20260414165042.png",
-    "Pasted image 20260414164519.png",
     "picoCTF/Web 1/1-Insp3ct0r.md",
     "picoCTF/Crypto 1",
     "picoCTF/Eexamen Parcial 1/Web/7-SQL Direct.md",
-    "Pasted image 20260328000335.png",
     "picoCTF/Eexamen Parcial 1/Web/6-Java Code Analysis!.md",
     "picoCTF/Eexamen Parcial 1/Web/5-findme.md",
     "picoCTF/Eexamen Parcial 1/Web/4-SSTI1.md",
     "picoCTF/Eexamen Parcial 1/Web/3-head-dump.md",
-    "picoCTF/Eexamen Parcial 1/Web/2-Cookie Monster Secret Recipe.md",
-    "picoCTF/Eexamen Parcial 1/Web/1-Bookmarklet.md",
-    "picoCTF/Eexamen Parcial 1/General Skills/1-FANTASY CTF.md",
     "picoCTF/Eexamen Parcial 1/Web",
-    "picoCTF/Eexamen Parcial 1/General Skills/2-HashingJobApp.md",
-    "picoCTF/Eexamen Parcial 1/General Skills/3-Rust fixme 1.md",
-    "picoCTF/Eexamen Parcial 1/General Skills/4-Rust fixme 2.md",
-    "picoCTF/Eexamen Parcial 1/General Skills/5-Rust fixme 3.md",
-    "picoCTF/Eexamen Parcial 1/General Skills/6-dont-you-love-banners.md",
-    "picoCTF/Eexamen Parcial 1/General Skills/7-flag_shop.md",
-    "picoCTF/Eexamen Parcial 1/General Skills/8-Python Wrangling.md",
     "picoCTF/Eexamen Parcial 1/General Skills",
     "picoCTF/Eexamen Parcial 1",
     "picoCTF/Forensic 4",
     "picoCTF/Forensic 3",
     "picoCTF/Sin título.canvas",
-    "picoCTF/Forensic 2",
-    "picoCTF/Forensic 1",
-    "picoCTF/Tarea 2"
+    "picoCTF/Forensic 2"
   ]
 }
