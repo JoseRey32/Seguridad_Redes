@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "bd2ee0f50b83df86",
+    "id": "5a082705d2cf88b2",
     "type": "split",
     "children": [
       {
-        "id": "077ef620c86aae54",
+        "id": "3230a9e645ae1b6d",
         "type": "tabs",
         "children": [
           {
-            "id": "59e32dc6cc8b6e93",
+            "id": "a3e42c8aa264a94c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 2/1-Includes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1-Includes"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c4a7cac0e318148c",
+    "id": "c4ab6da79b2255e6",
     "type": "split",
     "children": [
       {
-        "id": "ab3d0a88be6459f4",
+        "id": "4e4967379d570588",
         "type": "tabs",
         "children": [
           {
-            "id": "d371cb193a4e39f4",
+            "id": "3ff3c68df148a5e2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "1ec3e72debe62a55",
+            "id": "35ec5b76aa0bde79",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "fa464b8a47ad6cc4",
+            "id": "0971446cd1965dec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5145492553711
+    "width": 300
   },
   "right": {
-    "id": "9cfb0729e9cf203a",
+    "id": "80facdb51aaab1ac",
     "type": "split",
     "children": [
       {
-        "id": "7358822e684a94d7",
+        "id": "9505676dcdbcecb6",
         "type": "tabs",
         "children": [
           {
-            "id": "4adbca229729a9b8",
+            "id": "255b1f781dc51d61",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Tarea 1/10-ASCII Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 10-ASCII Numbers"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "a94440f5a15919b7",
+            "id": "7df998f112256e5d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Sin título"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "e95a863bc5461eef",
+            "id": "823ed1f41c23a15a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "5eabded59cb8caa4",
+            "id": "40e5538bb75bb56e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +145,17 @@
             }
           },
           {
-            "id": "736235409017fd38",
+            "id": "912a36caff291ec9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sin título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Sin título"
+              "title": "Esquema"
             }
           }
         ]
@@ -183,54 +176,6 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "59e32dc6cc8b6e93",
-  "lastOpenFiles": [
-    "picoCTF/Tarea 4 - Crypto/4. hashcrack.md",
-    "picoCTF/Tarea 4 - Crypto/5. morse-code.md",
-    "picoCTF/Tarea 4 - Crypto/6. rail-fence.md",
-    "picoCTF/Tarea 4 - Crypto/7. substitution0.md",
-    "picoCTF/Tarea 4 - Crypto/8. substitution1.md",
-    "picoCTF/Tarea 4 - Crypto/9. substitution2.md",
-    "picoCTF/Tarea 4 - Crypto/10 Vigenere.md",
-    "picoCTF/Tarea 4 - Crypto/3. EVEN RSA CAN BE BROKEN.md",
-    "picoCTF/Tarea 4 - Crypto/1. Crack the Power.md",
-    "picoCTF/Tarea 4 - Crypto/2. credstuff.md",
-    "plantilla.md",
-    "picoCTF/Reversing 1/1. vault-door-training.md",
-    "picoCTF/Reversing 1/Sin título.md",
-    "picoCTF/Reversing 1",
-    "picoCTF/Sin nombre",
-    "Pasted image 20260426225448.png",
-    "Pasted image 20260426223604.png",
-    "Pasted image 20260426154233.png",
-    "Pasted image 20260426153826.png",
-    "Pasted image 20260426150608.png",
-    "picoCTF/Tarea 4 - Crypto/Sin nombre",
-    "Pasted image 20260426142357.png",
-    "Pasted image 20260426142312.png",
-    "picoCTF/Crypto 3/2. Mind your Ps and Qs.md",
-    "picoCTF/Tarea 4 - Crypto",
-    "picoCTF/Crypto 3/1. Mini RSA.md",
-    "picoCTF/Crypto 4/4. ReadMyCert.md",
-    "picoCTF/Crypto 4/5. flags.md",
-    "Pasted image 20260423174328.png",
-    "Pasted image 20260423173400.png",
-    "picoCTF/Crypto 4/2. basic-mod1.md",
-    "picoCTF/Crypto 4/3. HideToSee.md",
-    "picoCTF/Forensic 4/1-Milkslap.md",
-    "picoCTF/Web 2/3-Scavenger Hunt.md",
-    "picoCTF/Crypto 4/1. Pixelated.md",
-    "Pasted image 20260422184850.png",
-    "picoCTF/Crypto 2/1. rsa pop quiz (exp.py).md",
-    "picoCTF/Crypto 4",
-    "picoCTF/Crypto 3",
-    "picoCTF/Crypto 2",
-    "picoCTF/Crypto 1/8. interencdec.md",
-    "picoCTF/Crypto 1/7. waves over lambda.md",
-    "picoCTF/Crypto 1/6. Tapping.md",
-    "picoCTF/Crypto 1",
-    "picoCTF/Eexamen Parcial 1/Web",
-    "picoCTF/Eexamen Parcial 1/General Skills",
-    "picoCTF/Sin título.canvas"
-  ]
+  "active": "a3e42c8aa264a94c",
+  "lastOpenFiles": []
 }
